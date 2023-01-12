@@ -4,14 +4,7 @@
 body {
   background-color: #9e8851;
 }
-h1 {
-  margin: 100px;
-  text-align: center;
-  font-family: Helvetica;
-  font-weight: bold;
-  font-size: 200%;
-  color: magenta;
-}
+
 section {
   position: relative;
   padding: 15px;
